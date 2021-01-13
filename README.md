@@ -1,5 +1,5 @@
-# data-100
-Coursework for DATA 100 | Principles and Techniques of Data Science
+# DATA 100 | Principles and Techniques of Data Science
+
 # Projects
 Project 1: Food Safety
 
