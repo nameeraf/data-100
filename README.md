@@ -1,9 +1,9 @@
 # DATA 100 | Principles and Techniques of Data Science
 
 # Projects
-Project 1: Food Safety
+Project 1: Food Safety (Performed Data Cleaning and EDA on a dataset of food safety scores for restaurants in San Francisco)
 
-Project 2: Spam/Ham
+Project 2: Spam/Ham (Devised and trained a classifier with an accuracy of ~93% to classify emails as spam or not spam using Logistic Regression)
 
 # Homeworks 
 HW 1: Prerequisites
